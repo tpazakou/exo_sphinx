@@ -1,6 +1,6 @@
 def flatten(nested_list):
     """
-    Aplatit une liste imbriquée
+
     """
     result = []
     for element in nested_list:
@@ -12,7 +12,7 @@ def flatten(nested_list):
 
 def find_duplicates(lst):
     """
-    Trouve les éléments dupliqués dans une liste.
+
     """
     seen = set()
     duplicates = set()
