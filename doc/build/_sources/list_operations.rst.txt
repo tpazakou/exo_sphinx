@@ -1,0 +1,7 @@
+list\_operations module
+=======================
+
+.. automodule:: list_operations
+   :members:
+   :undoc-members:
+   :show-inheritance:
